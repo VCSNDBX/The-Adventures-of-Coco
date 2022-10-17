@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: f0d356a3494f589438a45584a2af0e71
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back_Light
+    100002: Camera
+    100004: Control
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.005
+    100012: ElbowIK_L
+    100014: ElbowIK_L_end
+    100016: ElbowIK_R.001
+    100018: ElbowIK_R.001_end
+    100020: Fill_Light
+    100022: Foot_L
+    100024: Foot_L_end
+    100026: Foot_R.001
+    100028: Foot_R.001_end
+    100030: Hand_L
+    100032: Hand_L_end
+    100034: Hand_R.001
+    100036: Hand_R.001_end
+    100038: Head
+    100040: Head_end
+    100042: Key_Light
+    100044: KneeIK_L
+    100046: KneeIK_L_end
+    100048: KneeIK_R.001
+    100050: KneeIK_R.001_end
+    100052: LowerArm_L
+    100054: LowerArm_R.001
+    100056: LowerArmIK_L
+    100058: LowerArmIK_L_end
+    100060: LowerArmIK_R.001
+    100062: LowerArmIK_R.001_end
+    100064: LowerLeg_L
+    100066: LowerLeg_R.001
+    100068: LowerLegIK_L
+    100070: LowerLegIK_L_end
+    100072: LowerLegIK_R.001
+    100074: LowerLegIK_R.001_end
+    100076: Math Daemon`s Skeleton
+    100078: //RootNode
+    100080: Neck
+    100082: Spine
+    100084: Spine.001
+    100086: UpperArm_L
+    100088: UpperArm_R.001
+    100090: UpperLeg_L
+    100092: UpperLeg_R.001
+    400000: Back_Light
+    400002: Camera
+    400004: Control
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.005
+    400012: ElbowIK_L
+    400014: ElbowIK_L_end
+    400016: ElbowIK_R.001
+    400018: ElbowIK_R.001_end
+    400020: Fill_Light
+    400022: Foot_L
+    400024: Foot_L_end
+    400026: Foot_R.001
+    400028: Foot_R.001_end
+    400030: Hand_L
+    400032: Hand_L_end
+    400034: Hand_R.001
+    400036: Hand_R.001_end
+    400038: Head
+    400040: Head_end
+    400042: Key_Light
+    400044: KneeIK_L
+    400046: KneeIK_L_end
+    400048: KneeIK_R.001
+    400050: KneeIK_R.001_end
+    400052: LowerArm_L
+    400054: LowerArm_R.001
+    400056: LowerArmIK_L
+    400058: LowerArmIK_L_end
+    400060: LowerArmIK_R.001
+    400062: LowerArmIK_R.001_end
+    400064: LowerLeg_L
+    400066: LowerLeg_R.001
+    400068: LowerLegIK_L
+    400070: LowerLegIK_L_end
+    400072: LowerLegIK_R.001
+    400074: LowerLegIK_R.001_end
+    400076: Math Daemon`s Skeleton
+    400078: //RootNode
+    400080: Neck
+    400082: Spine
+    400084: Spine.001
+    400086: UpperArm_L
+    400088: UpperArm_R.001
+    400090: UpperLeg_L
+    400092: UpperLeg_R.001
+    2000000: Camera
+    2100000: eyes
+    2100002: color
+    2100004: color2
+    4300000: Cube.005
+    4300002: Cube.002
+    4300004: Cube.001
+    7400000: Math Daemon`s Skeleton|walk cycle
+    9500000: //RootNode
+    10800000: Back_Light
+    10800002: Fill_Light
+    10800004: Key_Light
+    13700000: Cube.001
+    13700002: Cube.002
+    13700004: Cube.005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

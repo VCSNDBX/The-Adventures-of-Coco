@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 6b97009020ee4f441b858fe825b10808
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bridge
+    100002: Bridge.001
+    100004: Bridge.002
+    100006: Cube
+    100008: Cube.001
+    100010: Cube.002
+    100012: Cube.003
+    100014: Cube.004
+    100016: Fence.000
+    100018: Fence.001
+    100020: Fence.002
+    100022: Fence.003
+    100024: Fence.004
+    100026: Fence.005
+    100028: Fence.006
+    100030: Fence.007
+    100032: Fence.008
+    100034: Fence.009
+    100036: //RootNode
+    100038: Mountain Landscape
+    100040: Stairs
+    100042: Stairs.001
+    100044: Stairs.002
+    100046: Stairs.003
+    100048: Stairs.004
+    100050: Stairs.005
+    100052: Stairs.006
+    100054: Stairs.007
+    100056: Stairs.008
+    100058: Stairs.009
+    100060: Water
+    400000: Bridge
+    400002: Bridge.001
+    400004: Bridge.002
+    400006: Cube
+    400008: Cube.001
+    400010: Cube.002
+    400012: Cube.003
+    400014: Cube.004
+    400016: Fence.000
+    400018: Fence.001
+    400020: Fence.002
+    400022: Fence.003
+    400024: Fence.004
+    400026: Fence.005
+    400028: Fence.006
+    400030: Fence.007
+    400032: Fence.008
+    400034: Fence.009
+    400036: //RootNode
+    400038: Mountain Landscape
+    400040: Stairs
+    400042: Stairs.001
+    400044: Stairs.002
+    400046: Stairs.003
+    400048: Stairs.004
+    400050: Stairs.005
+    400052: Stairs.006
+    400054: Stairs.007
+    400056: Stairs.008
+    400058: Stairs.009
+    400060: Water
+    2100000: Gold
+    2100002: Dark Gold
+    2100004: white
+    2100006: Stairs_material
+    2100008: Stairs_material.001
+    2100010: Brown
+    2100012: Light
+    2100014: Red
+    2100016: Water
+    2100018: Mud
+    2100020: Grass
+    2300000: Bridge
+    2300002: Bridge.001
+    2300004: Bridge.002
+    2300006: Cube
+    2300008: Cube.001
+    2300010: Cube.002
+    2300012: Cube.003
+    2300014: Cube.004
+    2300016: Fence.000
+    2300018: Fence.001
+    2300020: Fence.002
+    2300022: Fence.003
+    2300024: Fence.004
+    2300026: Fence.005
+    2300028: Fence.006
+    2300030: Fence.008
+    2300032: Fence.009
+    2300034: Mountain Landscape
+    2300036: Stairs
+    2300038: Stairs.001
+    2300040: Stairs.002
+    2300042: Stairs.003
+    2300044: Stairs.004
+    2300046: Stairs.005
+    2300048: Stairs.006
+    2300050: Stairs.007
+    2300052: Stairs.008
+    2300054: Stairs.009
+    2300056: Water
+    3300000: Bridge
+    3300002: Bridge.001
+    3300004: Bridge.002
+    3300006: Cube
+    3300008: Cube.001
+    3300010: Cube.002
+    3300012: Cube.003
+    3300014: Cube.004
+    3300016: Fence.000
+    3300018: Fence.001
+    3300020: Fence.002
+    3300022: Fence.003
+    3300024: Fence.004
+    3300026: Fence.005
+    3300028: Fence.006
+    3300030: Fence.008
+    3300032: Fence.009
+    3300034: Mountain Landscape
+    3300036: Stairs
+    3300038: Stairs.001
+    3300040: Stairs.002
+    3300042: Stairs.003
+    3300044: Stairs.004
+    3300046: Stairs.005
+    3300048: Stairs.006
+    3300050: Stairs.007
+    3300052: Stairs.008
+    3300054: Stairs.009
+    3300056: Water
+    4300000: Cube.004
+    4300002: Cube.003
+    4300004: Cube.002
+    4300006: Cube.001
+    4300008: Cube
+    4300010: Fence.008
+    4300012: Fence.006
+    4300014: Fence.002
+    4300016: Fence.004
+    4300018: Fence.003
+    4300020: Fence.001
+    4300022: Fence.007
+    4300024: Fence.005
+    4300026: Fence.000
+    4300028: Fence.009
+    4300030: Stairs.009
+    4300032: Stairs.008
+    4300034: Stairs.007
+    4300036: Stairs.006
+    4300038: Stairs.005
+    4300040: Stairs.004
+    4300042: Stairs.003
+    4300044: Stairs.002
+    4300046: Stairs.001
+    4300048: Stairs
+    4300050: Bridge.002
+    4300052: Bridge.001
+    4300054: Bridge
+    4300056: Water
+    4300058: Mountain Landscape
+    9500000: //RootNode
+    13700000: Fence.007
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100006, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark Gold
+    second: {fileID: 2100000, guid: 65c38d54e695aec4a8ac3dd40f0faf3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: b5fd79e13ef8f424ba35cfc66d3b1d12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100008, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100006, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mud
+    second: {fileID: 2100000, guid: 73cdf054ae24d6348988db74c46f05f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Red
+    second: {fileID: 2100006, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_material
+    second: {fileID: 2100002, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_material.001
+    second: {fileID: 2100008, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Water
+    second: {fileID: 2100000, guid: de6f8470d17a3314b9dec4e8565999ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100006, guid: 1558ea6d56bf38e4a80078973021e4ea, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

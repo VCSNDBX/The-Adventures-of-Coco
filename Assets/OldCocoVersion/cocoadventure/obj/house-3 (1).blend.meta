@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 969cc4246ec78a54f876bf731bdfc746
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube_011
+    100002: Cube_016
+    100004: Cube_022
+    100006: Cube_025
+    100008: Cube_028
+    100010: Cube_030
+    100012: //RootNode
+    100014: Plane
+    100016: Plane_002
+    100018: Plane_003
+    100020: Plane_004
+    100022: Plane_005
+    400000: Cube_011
+    400002: Cube_016
+    400004: Cube_022
+    400006: Cube_025
+    400008: Cube_028
+    400010: Cube_030
+    400012: //RootNode
+    400014: Plane
+    400016: Plane_002
+    400018: Plane_003
+    400020: Plane_004
+    400022: Plane_005
+    2100000: glass_window
+    2100002: Blue_glass
+    2100004: white
+    2100006: Dark_wood
+    2100008: brown
+    2100010: light_wood
+    2100012: green
+    2100014: cloth
+    2100016: blue_cloth
+    2100018: flag
+    2300000: Cube_011
+    2300002: Cube_016
+    2300004: Cube_022
+    2300006: Cube_025
+    2300008: Cube_028
+    2300010: Cube_030
+    2300012: //RootNode
+    2300014: Plane
+    2300016: Plane_002
+    2300018: Plane_003
+    2300020: Plane_004
+    2300022: Plane_005
+    3300000: Cube_011
+    3300002: Cube_016
+    3300004: Cube_022
+    3300006: Cube_025
+    3300008: Cube_028
+    3300010: Cube_030
+    3300012: //RootNode
+    3300014: Plane
+    3300016: Plane_002
+    3300018: Plane_003
+    3300020: Plane_004
+    3300022: Plane_005
+    4300000: 3rd_house
+    4300002: Cube_011
+    4300004: Cube_016
+    4300006: Cube_022
+    4300008: Cube_025
+    4300010: Cube_028
+    4300012: Cube_030
+    4300014: Plane
+    4300016: Plane_002
+    4300018: Plane_003
+    4300020: Plane_004
+    4300022: Plane_005
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_glass
+    second: {fileID: 2100000, guid: 602763bed037eee4cbae6662694450bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_wood
+    second: {fileID: 2100000, guid: f0ade29b34e3df64d8bd823459eff2b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_cloth
+    second: {fileID: 2100000, guid: 2984f14cac46eef47b34dfb9db9aa19d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown
+    second: {fileID: 2100000, guid: eef713584da9fbb46af16c47accad0b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cloth
+    second: {fileID: 2100000, guid: 6e4ccc6519d82ca47978fcf25abb5d53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: flag
+    second: {fileID: 2100000, guid: fee06b613788fdb4dacab1beb7718685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_window
+    second: {fileID: 2100000, guid: 6a996df3d974b5e4cbf4af49e76b36ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 26c068d5ca8d9644f96861a0a4f63d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: light_wood
+    second: {fileID: 2100000, guid: e1f6c20471672b547a83a0e7dc405e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: ed3b4d5261ad2b24d9117edb6e3c9447, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

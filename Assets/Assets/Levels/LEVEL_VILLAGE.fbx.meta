@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 1558ea6d56bf38e4a80078973021e4ea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Landscape.000
+    100002: //RootNode
+    100004: Plane
+    100006: Stairs
+    100008: Stairs.001
+    100010: Stairs.002
+    100012: Stairs.003
+    100014: Stairs.004
+    100016: Stairs.005
+    100018: Stairs.006
+    100020: Stairs.007
+    100022: Stairs.008
+    100024: Stairs.009
+    400000: Landscape.000
+    400002: //RootNode
+    400004: Plane
+    400006: Stairs
+    400008: Stairs.001
+    400010: Stairs.002
+    400012: Stairs.003
+    400014: Stairs.004
+    400016: Stairs.005
+    400018: Stairs.006
+    400020: Stairs.007
+    400022: Stairs.008
+    400024: Stairs.009
+    2100000: Blue
+    2100002: Stairs_material Brown
+    2100004: Stairs_material Green
+    2100006: Brown.001
+    2100008: Green.001
+    2100010: Dark Brown.001
+    2300000: Landscape.000
+    2300002: Plane
+    2300004: Stairs
+    2300006: Stairs.001
+    2300008: Stairs.002
+    2300010: Stairs.003
+    2300012: Stairs.004
+    2300014: Stairs.005
+    2300016: Stairs.006
+    2300018: Stairs.007
+    2300020: Stairs.008
+    2300022: Stairs.009
+    3300000: Landscape.000
+    3300002: Plane
+    3300004: Stairs
+    3300006: Stairs.001
+    3300008: Stairs.002
+    3300010: Stairs.003
+    3300012: Stairs.004
+    3300014: Stairs.005
+    3300016: Stairs.006
+    3300018: Stairs.007
+    3300020: Stairs.008
+    3300022: Stairs.009
+    4300000: Plane
+    4300002: Stairs
+    4300004: Stairs.001
+    4300006: Stairs.002
+    4300008: Stairs.003
+    4300010: Stairs.004
+    4300012: Stairs.005
+    4300014: Stairs.006
+    4300016: Stairs.007
+    4300018: Stairs.008
+    4300020: Stairs.009
+    4300022: Landscape.000
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: 5315b193d92e57e4a8c86fe2e8fddcde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stairs_material Green
+    second: {fileID: 2100000, guid: 2996617f172a5134a801c5a72e0a4e75, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
